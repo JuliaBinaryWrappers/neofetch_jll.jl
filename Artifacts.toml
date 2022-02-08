@@ -1,6 +1,6 @@
 [neofetch]
-git-tree-sha1 = "765086a813034d3b600e67fce52da332608eaafc"
+git-tree-sha1 = "cb1eaa1bde8fa5a2711b56cdf548ad6d8512a216"
 
     [[neofetch.download]]
-    sha256 = "74d017eae261f50bc0ea8d1f28652110b0ed552426349023be456d8f3216dce3"
-    url = "https://github.com/JuliaBinaryWrappers/neofetch_jll.jl/releases/download/neofetch-v6.1.0+0/neofetch.v6.1.0.any.tar.gz"
+    sha256 = "e9ab24f95a0827141aa9c47d871a9c63a5fbcf37d4a99d1b62197f5c99fd77c1"
+    url = "https://github.com/JuliaBinaryWrappers/neofetch_jll.jl/releases/download/neofetch-v7.1.0+0/neofetch.v7.1.0.any.tar.gz"
